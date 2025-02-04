@@ -8,7 +8,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "test": "jest --watchAll",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "reset-project": "node ./scripts/reset-project.js"
   },
   "jest": {
     "preset": "jest-expo"
