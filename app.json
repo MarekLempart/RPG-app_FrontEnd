@@ -2,6 +2,7 @@
   "expo": {
     "name": "RPG-app_FrontEnd",
     "slug": "RPG-app_FrontEnd",
+    "scheme": "rpgapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,6 +13,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "jsEngine": "hermes",
     "ios": {
       "supportsTablet": true
     },
